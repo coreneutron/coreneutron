@@ -10,20 +10,29 @@
 ## 🧑 About me:
 
 <p>
-I am working as a <b>Web</b> & <b>Mobile Engineer</b> for 5 years with <b>Blockchain</b> and have developed many projects according to client's needs.<br>
-I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
-I am an <b>ambitious man</b> with rich experience.<br>
-Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
-Develop <b>high-quality</b> Mobile app for rapid deployment of bug fixes and new features using established development standards.<br>
-As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer <b>satisfaction</b>.<br>
-I can contribute to your project as an individual <b>full-stack engineer</b>. And if you want to work with our agency, I can lead teammates.<br>
-Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
+With creative thinking and passionate work, I am very familiar with large-scale project management. 
+Plan, develop, test, deploy, and maintain various projects. 
+Provide effective troubleshooting and remediation for various applications. 
+Doing my best for clients is my rule. 
+I always want a good long-term relationship with a successful outcome.
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 BlockChain - Web3, Dapp, NFT Marketplace
-  <br>🔸 DAO, DEX, Ethereum, Solidity, Smart Contract, Rust
-<br>🔸 FrontEnd - React.js, Next.js, Vue.js, AngularJS, React-Native, Flutter
-<br>🔸 BackEnd - Node, Express, Laravel, RoR
-<br>🔸 AWS and MLOPS
-<p>
+
+<br>🔸 Web3 Development
+<br>Decentralized Applications (DApps), Non-Fungible Token (NFT) Marketplaces, Decentralized Finance (DeFi), Smart Contracts
+<br>
+<br>🔸 Frontend Development
+<br>HTML/CSS, TailwindCSS, JavaScript/TypeScript, Frameworks: React.js, Next.js, Vue.js, Angular, Svelte, State Management: Redux, Vuex, UI Libraries: Material-UI, Ant Design...
+<br>
+<br>🔸 Backend Development:
+<br>Languages: PHP, JavaScript (Node.js), Python, Ruby, C#
+<br>Frameworks: Laravel, Express.js, Nest.js, Django, Ruby on Rails, ASP.NET Core
+<br>Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Firebase)
+<br>RESTful APIs, GraphQL
+<br>
+<br>🔸 Mobile Development:
+<br>Android (Java, Kotlin), Cross-Platform: React Native, Flutter, Mobile UI Frameworks: Material Design, Cupertino...
+<br>
+<br>🔸 Cloud Services:
+<br>Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Docker, Kubernetes, Continuous Integration/Continuous Deployment (CI/CD)
