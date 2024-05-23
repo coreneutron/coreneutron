@@ -1,6 +1,6 @@
-<h4 align='center'>
+<h2 align='center'>
   Senior Software Engineer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h4>
+</h2>
 
 ## 🧑 About me:
 
