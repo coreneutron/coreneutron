@@ -1,6 +1,6 @@
-<h1 align="center"><img align="center" width="43" alt="Hi there!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Senior Full-Stack & Blockchain Engineer</h1>
+<h1 align="center"><img align="center" width="43" alt="Hi there!" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> Software Engineer</h1>
 
-![Follow me on GitHub!](https://img.shields.io/github/followers/stealthaspirant?)
+![Follow me on GitHub!](https://img.shields.io/github/followers/dragoneutron?)
 
 ## About
 
