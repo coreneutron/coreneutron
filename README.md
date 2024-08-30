@@ -4,4 +4,4 @@
 
 ⚡ Familiar with multiple programming languages, frameworks, and platforms and have good experience in Agile development, DevOps, and team collaboration.
 
-👨‍🎓 Bachelor of Science in Computer Science
+👨‍🎓 Bachelor of Science
