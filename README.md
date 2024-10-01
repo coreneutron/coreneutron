@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer</h1>
+<h1 align="center">Senior Full Stack Blockchain Engineer</h1>
 
 😎 Experienced software engineer familiar with Web, AI, and Blockchain technologies.
 
